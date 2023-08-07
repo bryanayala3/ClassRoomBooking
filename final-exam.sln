@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rooms", "Rooms\Rooms.csproj", "{49541949-B802-46B6-81C4-6C1964FB2113}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoomInventoryApp", "RoomInventoryApp\RoomInventoryApp.csproj", "{95F1A293-374A-42CC-A3D7-F7F86CA86A8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49541949-B802-46B6-81C4-6C1964FB2113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49541949-B802-46B6-81C4-6C1964FB2113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49541949-B802-46B6-81C4-6C1964FB2113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49541949-B802-46B6-81C4-6C1964FB2113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F1A293-374A-42CC-A3D7-F7F86CA86A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F1A293-374A-42CC-A3D7-F7F86CA86A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F1A293-374A-42CC-A3D7-F7F86CA86A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F1A293-374A-42CC-A3D7-F7F86CA86A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9526171-E91F-4B32-94C2-5735284DECE8}
+	EndGlobalSection
+EndGlobal

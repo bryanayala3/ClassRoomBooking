@@ -1,0 +1,12 @@
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\Rooms\bin\Debug\net7.0\Rooms.deps.json
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\Rooms\bin\Debug\net7.0\Rooms.dll
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\Rooms\bin\Debug\net7.0\Rooms.pdb
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\Rooms\obj\Debug\net7.0\Rooms.csproj.AssemblyReference.cache
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\Rooms\obj\Debug\net7.0\Rooms.GeneratedMSBuildEditorConfig.editorconfig
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\Rooms\obj\Debug\net7.0\Rooms.AssemblyInfoInputs.cache
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\Rooms\obj\Debug\net7.0\Rooms.AssemblyInfo.cs
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\Rooms\obj\Debug\net7.0\Rooms.csproj.CoreCompileInputs.cache
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\Rooms\obj\Debug\net7.0\Rooms.dll
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\Rooms\obj\Debug\net7.0\refint\Rooms.dll
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\Rooms\obj\Debug\net7.0\Rooms.pdb
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\Rooms\obj\Debug\net7.0\ref\Rooms.dll

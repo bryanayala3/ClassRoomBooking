@@ -1,0 +1,51 @@
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\RoomInventoryApp\bin\Debug\net7.0-windows\RoomInventoryApp.exe
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\RoomInventoryApp\bin\Debug\net7.0-windows\RoomInventoryApp.deps.json
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\RoomInventoryApp\bin\Debug\net7.0-windows\RoomInventoryApp.runtimeconfig.json
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\RoomInventoryApp\bin\Debug\net7.0-windows\RoomInventoryApp.dll
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\RoomInventoryApp\bin\Debug\net7.0-windows\RoomInventoryApp.pdb
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.csproj.AssemblyReference.cache
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.MainForm.resources
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.csproj.GenerateResource.cache
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.AssemblyInfoInputs.cache
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.AssemblyInfo.cs
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.csproj.CoreCompileInputs.cache
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.dll
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\refint\RoomInventoryApp.dll
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.pdb
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.genruntimeconfig.cache
+C:\peter\src\PROG1965-code\exams\final\v3-classrooms-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\ref\RoomInventoryApp.dll
+C:\Users\Miles McDonald\Dropbox\My PC (LAPTOP-89G4ELU0)\Desktop\Conestoga\PROGx2x1965\Slides & Lecture Material\WEEK 14 Final Exam\final-exam-starting-code\RoomInventoryApp\bin\Debug\net7.0-windows\RoomInventoryApp.exe
+C:\Users\Miles McDonald\Dropbox\My PC (LAPTOP-89G4ELU0)\Desktop\Conestoga\PROGx2x1965\Slides & Lecture Material\WEEK 14 Final Exam\final-exam-starting-code\RoomInventoryApp\bin\Debug\net7.0-windows\RoomInventoryApp.deps.json
+C:\Users\Miles McDonald\Dropbox\My PC (LAPTOP-89G4ELU0)\Desktop\Conestoga\PROGx2x1965\Slides & Lecture Material\WEEK 14 Final Exam\final-exam-starting-code\RoomInventoryApp\bin\Debug\net7.0-windows\RoomInventoryApp.runtimeconfig.json
+C:\Users\Miles McDonald\Dropbox\My PC (LAPTOP-89G4ELU0)\Desktop\Conestoga\PROGx2x1965\Slides & Lecture Material\WEEK 14 Final Exam\final-exam-starting-code\RoomInventoryApp\bin\Debug\net7.0-windows\RoomInventoryApp.dll
+C:\Users\Miles McDonald\Dropbox\My PC (LAPTOP-89G4ELU0)\Desktop\Conestoga\PROGx2x1965\Slides & Lecture Material\WEEK 14 Final Exam\final-exam-starting-code\RoomInventoryApp\bin\Debug\net7.0-windows\RoomInventoryApp.pdb
+C:\Users\Miles McDonald\Dropbox\My PC (LAPTOP-89G4ELU0)\Desktop\Conestoga\PROGx2x1965\Slides & Lecture Material\WEEK 14 Final Exam\final-exam-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.csproj.AssemblyReference.cache
+C:\Users\Miles McDonald\Dropbox\My PC (LAPTOP-89G4ELU0)\Desktop\Conestoga\PROGx2x1965\Slides & Lecture Material\WEEK 14 Final Exam\final-exam-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.MainForm.resources
+C:\Users\Miles McDonald\Dropbox\My PC (LAPTOP-89G4ELU0)\Desktop\Conestoga\PROGx2x1965\Slides & Lecture Material\WEEK 14 Final Exam\final-exam-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.csproj.GenerateResource.cache
+C:\Users\Miles McDonald\Dropbox\My PC (LAPTOP-89G4ELU0)\Desktop\Conestoga\PROGx2x1965\Slides & Lecture Material\WEEK 14 Final Exam\final-exam-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miles McDonald\Dropbox\My PC (LAPTOP-89G4ELU0)\Desktop\Conestoga\PROGx2x1965\Slides & Lecture Material\WEEK 14 Final Exam\final-exam-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.AssemblyInfoInputs.cache
+C:\Users\Miles McDonald\Dropbox\My PC (LAPTOP-89G4ELU0)\Desktop\Conestoga\PROGx2x1965\Slides & Lecture Material\WEEK 14 Final Exam\final-exam-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.AssemblyInfo.cs
+C:\Users\Miles McDonald\Dropbox\My PC (LAPTOP-89G4ELU0)\Desktop\Conestoga\PROGx2x1965\Slides & Lecture Material\WEEK 14 Final Exam\final-exam-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.csproj.CoreCompileInputs.cache
+C:\Users\Miles McDonald\Dropbox\My PC (LAPTOP-89G4ELU0)\Desktop\Conestoga\PROGx2x1965\Slides & Lecture Material\WEEK 14 Final Exam\final-exam-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.dll
+C:\Users\Miles McDonald\Dropbox\My PC (LAPTOP-89G4ELU0)\Desktop\Conestoga\PROGx2x1965\Slides & Lecture Material\WEEK 14 Final Exam\final-exam-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\refint\RoomInventoryApp.dll
+C:\Users\Miles McDonald\Dropbox\My PC (LAPTOP-89G4ELU0)\Desktop\Conestoga\PROGx2x1965\Slides & Lecture Material\WEEK 14 Final Exam\final-exam-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.pdb
+C:\Users\Miles McDonald\Dropbox\My PC (LAPTOP-89G4ELU0)\Desktop\Conestoga\PROGx2x1965\Slides & Lecture Material\WEEK 14 Final Exam\final-exam-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.genruntimeconfig.cache
+C:\Users\Miles McDonald\Dropbox\My PC (LAPTOP-89G4ELU0)\Desktop\Conestoga\PROGx2x1965\Slides & Lecture Material\WEEK 14 Final Exam\final-exam-starting-code\RoomInventoryApp\obj\Debug\net7.0-windows\ref\RoomInventoryApp.dll
+C:\PROG1965-II\exams\final-exam-BryanAyala\RoomInventoryApp\bin\Debug\net7.0-windows\RoomInventoryApp.exe
+C:\PROG1965-II\exams\final-exam-BryanAyala\RoomInventoryApp\bin\Debug\net7.0-windows\RoomInventoryApp.deps.json
+C:\PROG1965-II\exams\final-exam-BryanAyala\RoomInventoryApp\bin\Debug\net7.0-windows\RoomInventoryApp.runtimeconfig.json
+C:\PROG1965-II\exams\final-exam-BryanAyala\RoomInventoryApp\bin\Debug\net7.0-windows\RoomInventoryApp.dll
+C:\PROG1965-II\exams\final-exam-BryanAyala\RoomInventoryApp\bin\Debug\net7.0-windows\RoomInventoryApp.pdb
+C:\PROG1965-II\exams\final-exam-BryanAyala\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.csproj.AssemblyReference.cache
+C:\PROG1965-II\exams\final-exam-BryanAyala\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.MainForm.resources
+C:\PROG1965-II\exams\final-exam-BryanAyala\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.csproj.GenerateResource.cache
+C:\PROG1965-II\exams\final-exam-BryanAyala\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROG1965-II\exams\final-exam-BryanAyala\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.AssemblyInfoInputs.cache
+C:\PROG1965-II\exams\final-exam-BryanAyala\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.AssemblyInfo.cs
+C:\PROG1965-II\exams\final-exam-BryanAyala\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.csproj.CoreCompileInputs.cache
+C:\PROG1965-II\exams\final-exam-BryanAyala\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.dll
+C:\PROG1965-II\exams\final-exam-BryanAyala\RoomInventoryApp\obj\Debug\net7.0-windows\refint\RoomInventoryApp.dll
+C:\PROG1965-II\exams\final-exam-BryanAyala\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.pdb
+C:\PROG1965-II\exams\final-exam-BryanAyala\RoomInventoryApp\obj\Debug\net7.0-windows\RoomInventoryApp.genruntimeconfig.cache
+C:\PROG1965-II\exams\final-exam-BryanAyala\RoomInventoryApp\obj\Debug\net7.0-windows\ref\RoomInventoryApp.dll
